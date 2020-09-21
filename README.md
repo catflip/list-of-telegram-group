@@ -1,5 +1,7 @@
 # list-of-telegram-group
 regex untuk mencari "\[[\d]+:[\d]+\s+[AM]+,\s+[\d]+\/[\d]+\/[\d]+\]\s+.+:\s+@" (tanpa tanda petik) teks whatsapp berikut "[7:03 AM, 7/6/2020] catflip: @" tanpa tanda petik
+
+- https://t.me/sqa_id
 - https://t.me/LowonganKerjaIT
 - https://t.me/react_id
 - https://t.me/FrontEndID
